@@ -1,4 +1,8 @@
-画像をコピペ
+- pc
+<img width="906" alt="image" src="https://user-images.githubusercontent.com/99580997/234148366-861af730-d602-417a-9650-ec748dcebb50.png">
+
+- mobile
+<img width="906" alt="image" src="https://user-images.githubusercontent.com/99580997/234148400-e4ce9fb3-a583-4f6b-9e01-9bbbad61177e.png">
 
 # compornent（共通部品）
 - 説明
